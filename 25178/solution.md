@@ -1,6 +1,6 @@
 ## Info
 
-[25178 두라무리 휴지](https://acmicpc.net/problem/25178)
+[두라무리 휴지](https://acmicpc.net/problem/25178)
 
 - 난이도: 실버 5
 - 분류: 구현
